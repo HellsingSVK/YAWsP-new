@@ -1,0 +1,289 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Language: cs_CZ\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "#30001"
+msgid "Account"
+msgstr "Účet"
+
+msgctxt "#30002"
+msgid "Username"
+msgstr "Používateľské meno"
+
+msgctxt "#30003"
+msgid "Password"
+msgstr "Heslo"
+
+msgctxt "#30004"
+msgid "Search"
+msgstr "Vyhľadávanie"
+
+msgctxt "#30005"
+msgid "History size"
+msgstr "Veľkosť histórie"
+
+msgctxt "#30006"
+msgid "Results per page"
+msgstr "Výsledkov na stránku"
+
+msgctxt "#30007"
+msgid "Search query"
+msgstr "Hľadaný výraz"
+
+msgctxt "#30008"
+msgid "Default category"
+msgstr "Predvolená kategória"
+
+msgctxt "#30009"
+msgid "Default sort"
+msgstr "Predvolené zoradenie"
+
+msgctxt "#30010"
+msgid "Downloads"
+msgstr "Sťahovanie"
+
+msgctxt "#30011"
+msgid "Download folder"
+msgstr "Priečinok pre sťahovanie"
+
+msgctxt "#30012"
+msgid "Remove diacritics from filenames"
+msgstr "Odstrániť diakritiku z názvov súborov"
+
+msgctxt "#30013"
+msgid "Auto-search subtitles on playback"
+msgstr "Automaticky hľadať titulky pri prehrávaní"
+
+msgctxt "#30101"
+msgid "Please fill in credentials or download folder in settings"
+msgstr "Vyplňte prihlasovacie údaje alebo priečinok v nastaveniach"
+
+msgctxt "#30102"
+msgid "Login failed"
+msgstr "Prihlásenie zlyhalo"
+
+msgctxt "#30103"
+msgid "Not a VIP account - playback/download may be limited"
+msgstr "Účet nie je VIP - prehrávanie a sťahovanie môže byť obmedzené"
+
+msgctxt "#30104"
+msgid "Removed from history"
+msgstr "Odstránené z histórie"
+
+msgctxt "#30105"
+msgid "Added to queue"
+msgstr "Pridané do fronty"
+
+msgctxt "#30106"
+msgid "Removed from queue"
+msgstr "Odstránené z fronty"
+
+msgctxt "#30107"
+msgid "API error or file unavailable"
+msgstr "Chyba API alebo súbor nie je dostupný"
+
+msgctxt "#30108"
+msgid "Enter file password"
+msgstr "Zadajte heslo k súboru"
+
+msgctxt "#30201"
+msgid "Search"
+msgstr "Hľadať"
+
+msgctxt "#30202"
+msgid "Queue"
+msgstr "Fronta"
+
+msgctxt "#30203"
+msgid "History"
+msgstr "História"
+
+msgctxt "#30204"
+msgid "Settings"
+msgstr "Nastavenia"
+
+msgctxt "#30205"
+msgid "New search..."
+msgstr "Nové hľadanie..."
+
+msgctxt "#30206"
+msgid "<< Previous page"
+msgstr "<< Predchádzajúca stránka"
+
+msgctxt "#30207"
+msgid "Next page >>"
+msgstr "Ďalšia stránka >>"
+
+msgctxt "#30208"
+msgid "Newest files"
+msgstr "Najnovšie súbory"
+
+msgctxt "#30209"
+msgid "Largest files"
+msgstr "Najväčšie súbory"
+
+msgctxt "#30211"
+msgid "File info"
+msgstr "Informácie o súbore"
+
+msgctxt "#30212"
+msgid "Download"
+msgstr "Stiahnuť"
+
+msgctxt "#30213"
+msgid "Remove"
+msgstr "Odstrániť"
+
+msgctxt "#30214"
+msgid "Add to queue"
+msgstr "Pridať do fronty"
+
+msgctxt "#30215"
+msgid "Remove from queue"
+msgstr "Odstrániť z fronty"
+
+msgctxt "#30220"
+msgid "Add to bookmarks"
+msgstr "Pridať do záložiek"
+
+msgctxt "#30221"
+msgid "Bookmarks"
+msgstr "Záložky"
+
+msgctxt "#30222"
+msgid "Remove from bookmarks"
+msgstr "Odstrániť zo záložiek"
+
+msgctxt "#30223"
+msgid "Added to bookmarks"
+msgstr "Pridané do záložiek"
+
+msgctxt "#30224"
+msgid "Already in bookmarks"
+msgstr "Už sa nachádza v záložkách"
+
+msgctxt "#30225"
+msgid "Removed from bookmarks"
+msgstr "Odstránené zo záložiek"
+
+msgctxt "#30230"
+msgid "Sort"
+msgstr "Zoradenie"
+
+msgctxt "#30231"
+msgid "Category"
+msgstr "Kategória"
+
+msgctxt "#30232"
+msgid "Default"
+msgstr "Predvolené"
+
+msgctxt "#30233"
+msgid "All"
+msgstr "Všetko"
+
+msgctxt "#30240"
+msgid "Search shows (Seasons & Episodes)..."
+msgstr "Hľadať seriály (Série a epizódy)..."
+
+msgctxt "#30241"
+msgid "Enter show title"
+msgstr "Zadajte názov seriálu"
+
+msgctxt "#30242"
+msgid "Direct search"
+msgstr "Priame vyhľadávanie"
+
+msgctxt "#30243"
+msgid "seasons"
+msgstr "sérií"
+
+msgctxt "#30244"
+msgid "Seasons"
+msgstr "Série"
+
+msgctxt "#30245"
+msgid "Search entire show"
+msgstr "Vyhľadať celý seriál"
+
+msgctxt "#30246"
+msgid "Season"
+msgstr "Séria"
+
+msgctxt "#30247"
+msgid "episodes"
+msgstr "epizód"
+
+msgctxt "#30248"
+msgid "Download complete season"
+msgstr "Stiahnuť komplet celú sériu"
+
+msgctxt "#30249"
+msgid "Search season files on Webshare"
+msgstr "Vyhľadať súbory série na Webshare"
+
+msgctxt "#30250"
+msgid "days"
+msgstr "dní"
+
+msgctxt "#30251"
+msgid "Free account"
+msgstr "Free účet"
+
+msgctxt "#30255"
+msgid "Automatic (priority CZ/SK + 1080p/720p)"
+msgstr "Automaticky (priorita CZ/SK + 1080p/720p)"
+
+msgctxt "#30256"
+msgid "Only CZ/SK dubbed or subtitled"
+msgstr "Iba s CZ/SK dabingom alebo titulkami"
+
+msgctxt "#30257"
+msgid "searching..."
+msgstr "hľadám..."
+
+msgctxt "#30258"
+msgid "Season download finished"
+msgstr "Sťahovanie série dokončené"
+
+msgctxt "#30259"
+msgid "Missing"
+msgstr "Nenájdené"
+
+msgctxt "#30301"
+msgid "Downloading (unknown size): "
+msgstr "Sťahujem (neznáma veľkosť): "
+
+msgctxt "#30302"
+msgid "Downloading: "
+msgstr "Sťahujem: "
+
+msgctxt "#30303"
+msgid "Download finished: "
+msgstr "Sťahovanie dokončené: "
+
+msgctxt "#30304"
+msgid "Download failed: "
+msgstr "Sťahovanie zlyhalo: "
+
+msgctxt "#30305"
+msgid "Cancel active download"
+msgstr "Zrušiť prebiehajúce sťahovanie"
+
+msgctxt "#30306"
+msgid "Cancelling download..."
+msgstr "Ruším sťahovanie..."
+
+msgctxt "#30307"
+msgid "Another download is already in progress"
+msgstr "Iné sťahovanie už prebieha"
+
+msgctxt "#30308"
+msgid "File already exists. Overwrite?"
+msgstr "Súbor už existuje. Prepísať?"
+
+msgctxt "#30309"
+msgid "Download cancelled: "
+msgstr "Sťahovanie zrušené: "

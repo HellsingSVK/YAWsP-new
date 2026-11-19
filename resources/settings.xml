@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30001">
+        <setting id="wsuser" type="text" label="30002" default=""/>
+        <setting id="wspass" type="text" label="30003" option="hidden" default=""/>
+        <setting id="token" type="text" visible="false" default=""/>
+        <setting id="duuid" type="text" visible="false" default=""/>
+    </category>
+    <category label="30004">
+        <setting id="shistory" type="number" label="30005" default="15"/>
+        <setting id="slimit" type="number" label="30006" default="25"/>
+        <setting id="scategory" type="enum" label="30008" lvalues="30233|Video|Images|Audio|Archives|Docs|Adult" default="0"/>
+        <setting id="ssort" type="enum" label="30009" lvalues="30232|Recent|Rating|Largest|Smallest" default="0"/>
+        <setting id="slast" type="text" visible="false" default=""/>
+        <setting id="autosubs" type="bool" label="30013" default="true"/>
+    </category>
+    <category label="30010">
+        <setting id="dfolder" type="folder" label="30011" default=""/>
+        <setting id="dnormalize" type="bool" label="30012" default="false"/>
+    </category>
+</settings>

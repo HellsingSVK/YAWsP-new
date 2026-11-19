@@ -1,0 +1,289 @@
+# Kodi Media Center language file
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "#30001"
+msgid "Account"
+msgstr "Account"
+
+msgctxt "#30002"
+msgid "Username"
+msgstr "Username"
+
+msgctxt "#30003"
+msgid "Password"
+msgstr "Password"
+
+msgctxt "#30004"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#30005"
+msgid "History size"
+msgstr "History size"
+
+msgctxt "#30006"
+msgid "Results per page"
+msgstr "Results per page"
+
+msgctxt "#30007"
+msgid "Search query"
+msgstr "Search query"
+
+msgctxt "#30008"
+msgid "Default category"
+msgstr "Default category"
+
+msgctxt "#30009"
+msgid "Default sort"
+msgstr "Default sort"
+
+msgctxt "#30010"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "#30011"
+msgid "Download folder"
+msgstr "Download folder"
+
+msgctxt "#30012"
+msgid "Remove diacritics from filenames"
+msgstr "Remove diacritics from filenames"
+
+msgctxt "#30013"
+msgid "Auto-search subtitles on playback"
+msgstr "Auto-search subtitles on playback"
+
+msgctxt "#30101"
+msgid "Please fill in credentials or download folder in settings"
+msgstr "Please fill in credentials or download folder in settings"
+
+msgctxt "#30102"
+msgid "Login failed"
+msgstr "Login failed"
+
+msgctxt "#30103"
+msgid "Not a VIP account - playback/download may be limited"
+msgstr "Not a VIP account - playback/download may be limited"
+
+msgctxt "#30104"
+msgid "Removed from history"
+msgstr "Removed from history"
+
+msgctxt "#30105"
+msgid "Added to queue"
+msgstr "Added to queue"
+
+msgctxt "#30106"
+msgid "Removed from queue"
+msgstr "Removed from queue"
+
+msgctxt "#30107"
+msgid "API error or file unavailable"
+msgstr "API error or file unavailable"
+
+msgctxt "#30108"
+msgid "Enter file password"
+msgstr "Enter file password"
+
+msgctxt "#30201"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#30202"
+msgid "Queue"
+msgstr "Queue"
+
+msgctxt "#30203"
+msgid "History"
+msgstr "History"
+
+msgctxt "#30204"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "#30205"
+msgid "New search..."
+msgstr "New search..."
+
+msgctxt "#30206"
+msgid "<< Previous page"
+msgstr "<< Previous page"
+
+msgctxt "#30207"
+msgid "Next page >>"
+msgstr "Next page >>"
+
+msgctxt "#30208"
+msgid "Newest files"
+msgstr "Newest files"
+
+msgctxt "#30209"
+msgid "Largest files"
+msgstr "Largest files"
+
+msgctxt "#30211"
+msgid "File info"
+msgstr "File info"
+
+msgctxt "#30212"
+msgid "Download"
+msgstr "Download"
+
+msgctxt "#30213"
+msgid "Remove"
+msgstr "Remove"
+
+msgctxt "#30214"
+msgid "Add to queue"
+msgstr "Add to queue"
+
+msgctxt "#30215"
+msgid "Remove from queue"
+msgstr "Remove from queue"
+
+msgctxt "#30220"
+msgid "Add to bookmarks"
+msgstr "Add to bookmarks"
+
+msgctxt "#30221"
+msgid "Bookmarks"
+msgstr "Bookmarks"
+
+msgctxt "#30222"
+msgid "Remove from bookmarks"
+msgstr "Remove from bookmarks"
+
+msgctxt "#30223"
+msgid "Added to bookmarks"
+msgstr "Added to bookmarks"
+
+msgctxt "#30224"
+msgid "Already in bookmarks"
+msgstr "Already in bookmarks"
+
+msgctxt "#30225"
+msgid "Removed from bookmarks"
+msgstr "Removed from bookmarks"
+
+msgctxt "#30230"
+msgid "Sort"
+msgstr "Sort"
+
+msgctxt "#30231"
+msgid "Category"
+msgstr "Category"
+
+msgctxt "#30232"
+msgid "Default"
+msgstr "Default"
+
+msgctxt "#30233"
+msgid "All"
+msgstr "All"
+
+msgctxt "#30240"
+msgid "Search shows (Seasons & Episodes)..."
+msgstr "Search shows (Seasons & Episodes)..."
+
+msgctxt "#30241"
+msgid "Enter show title"
+msgstr "Enter show title"
+
+msgctxt "#30242"
+msgid "Direct search"
+msgstr "Direct search"
+
+msgctxt "#30243"
+msgid "seasons"
+msgstr "seasons"
+
+msgctxt "#30244"
+msgid "Seasons"
+msgstr "Seasons"
+
+msgctxt "#30245"
+msgid "Search entire show"
+msgstr "Search entire show"
+
+msgctxt "#30246"
+msgid "Season"
+msgstr "Season"
+
+msgctxt "#30247"
+msgid "episodes"
+msgstr "episodes"
+
+msgctxt "#30248"
+msgid "Download complete season"
+msgstr "Download complete season"
+
+msgctxt "#30249"
+msgid "Search season files on Webshare"
+msgstr "Search season files on Webshare"
+
+msgctxt "#30250"
+msgid "days"
+msgstr "days"
+
+msgctxt "#30251"
+msgid "Free account"
+msgstr "Free account"
+
+msgctxt "#30255"
+msgid "Automatic (priority CZ/SK + 1080p/720p)"
+msgstr "Automatic (priority CZ/SK + 1080p/720p)"
+
+msgctxt "#30256"
+msgid "Only CZ/SK dubbed or subtitled"
+msgstr "Only CZ/SK dubbed or subtitled"
+
+msgctxt "#30257"
+msgid "searching..."
+msgstr "searching..."
+
+msgctxt "#30258"
+msgid "Season download finished"
+msgstr "Season download finished"
+
+msgctxt "#30259"
+msgid "Missing"
+msgstr "Missing"
+
+msgctxt "#30301"
+msgid "Downloading (unknown size): "
+msgstr "Downloading (unknown size): "
+
+msgctxt "#30302"
+msgid "Downloading: "
+msgstr "Downloading: "
+
+msgctxt "#30303"
+msgid "Download finished: "
+msgstr "Download finished: "
+
+msgctxt "#30304"
+msgid "Download failed: "
+msgstr "Download failed: "
+
+msgctxt "#30305"
+msgid "Cancel active download"
+msgstr "Cancel active download"
+
+msgctxt "#30306"
+msgid "Cancelling download..."
+msgstr "Cancelling download..."
+
+msgctxt "#30307"
+msgid "Another download is already in progress"
+msgstr "Another download is already in progress"
+
+msgctxt "#30308"
+msgid "File already exists. Overwrite?"
+msgstr "File already exists. Overwrite?"
+
+msgctxt "#30309"
+msgid "Download cancelled: "
+msgstr "Download cancelled: "
